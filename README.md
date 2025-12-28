@@ -185,8 +185,8 @@ python train.py \
 
 | 模型 | 参数量 | 验证准确率 | 特点 |
 |------|--------|-----------|------|
-| BasicCNN | ~15M | 85%+ | 深度网络，高容量 |
-| CNNWithAttention | ~8M | 88%+ | 注意力增强，高效 |
+| BasicCNN | ~15M | 55%+ | 深度网络，高容量 |
+| CNNWithAttention | ~8M | 55%+ | 注意力增强，高效 |
 | ResNetWithAttention | ~11M | 90%+ | 迁移学习，最佳性能 |
 
 *注：实际性能取决于数据集质量和训练配置*
